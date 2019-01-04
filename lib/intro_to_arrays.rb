@@ -17,7 +17,7 @@ end
 def third_element(taylor_swift)
   return taylor_swift[2]
 end
-#
+# takes in an argument of an array and returns the last element in the array using its negative index
 def last_element(taylor_swift)
   return taylor_swift[-1]
 end
