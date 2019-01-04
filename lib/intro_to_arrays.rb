@@ -17,11 +17,11 @@ end
 def third_element(taylor_swift)
   return taylor_swift[2]
 end
-
+#
 def last_element(taylor_swift)
   return taylor_swift[-1]
 end
-#
+# takes in an argument of an array and returns the first element in the array, without referencing the index number of that element
 def first_element_with_array_methods(south_east_asia)
   south_east_asia.first
 end
