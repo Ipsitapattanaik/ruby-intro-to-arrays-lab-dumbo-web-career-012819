@@ -1,15 +1,17 @@
 # working with arrays
 
+#
 def instantiate_new_array
 my_array = Array.new
 return my_array
 end
-
+# creates a new array with two elements in it and returns that array
+      returns an array that has 2 objects in it
 def array_with_two_elements
 my_array = ["cat","dog"]
 return my_array
 end
-# 
+# takes in an argument of an array and returns the first element in the array using its positive index
 def first_element(taylor_swift)
   return taylor_swift[0]
 end
