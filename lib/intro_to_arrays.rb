@@ -1,12 +1,11 @@
 # working with arrays
 
-# 
+# creates a new array and returns it , returns an array that is empty
 def instantiate_new_array
 my_array = Array.new
 return my_array
 end
-# creates a new array with two elements in it and returns that array
-      returns an array that has 2 objects in it
+# creates a new array with two elements in it and returns that array, returns an array that has 2 objects in it
 def array_with_two_elements
 my_array = ["cat","dog"]
 return my_array
