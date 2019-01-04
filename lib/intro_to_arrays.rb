@@ -29,7 +29,7 @@ end
 def last_element_with_array_methods(south_east_asia)
   south_east_asia.last
 end
-
+# takes in an argrument of an array and returns the length of the array
 def length_of_array(programming_languages)
   programming_languages.size
 end
