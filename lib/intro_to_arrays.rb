@@ -9,11 +9,11 @@ def array_with_two_elements
 my_array = ["cat","dog"]
 return my_array
 end
-
+# 
 def first_element(taylor_swift)
   return taylor_swift[0]
 end
-# 
+# takes in an argument of an array and returns the third element in the array using its positive index
 def third_element(taylor_swift)
   return taylor_swift[2]
 end
